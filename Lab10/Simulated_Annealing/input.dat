@@ -1,0 +1,14 @@
+32
+square
+400
+0.966
+400
+50000
+
+
+	ReadInput >> n_cities;
+	ReadInput >> distribution;
+	ReadInput >> temp;
+	ReadInput >> temp_decay_rate;
+	ReadInput >> n_temp_steps;
+	ReadInput >> n_metrop_steps;
