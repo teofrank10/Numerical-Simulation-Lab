@@ -1,0 +1,15 @@
+32
+square
+800
+3000
+0.6
+0.05
+4
+
+	ReadInput >> n_cities;
+	ReadInput >> distribution;
+	ReadInput >> n_routes; 
+	ReadInput >> n_generations;
+	ReadInput >> p_crossover;
+	ReadInput >> p_mutation;
+	ReadInput >> power;
