@@ -1,0 +1,20 @@
+0
+1.18
+0.5
+0.5
+300000
+100
+1000
+1
+1
+	
+	ReadInput >> startingPoint;
+	ReadInput >> delta;
+	ReadInput >> mu;
+	ReadInput >> sigma;
+	ReadInput >> nsteps;
+	ReadInput >> nblocks;
+	ReadInput >> neqsteps;
+	ReadInput >> optimization;
+	ReadInput >> paramsOpt;
+	
